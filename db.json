@@ -1,87 +1,87 @@
 {
   "Quiz1": [
     {
-      "type": "mc",
-      "qnum": "1",
-      "q": "What virtual enviornment does Java require to compile?",
-      "opt1": "MVC",
-      "opt2": "CJVM",
-      "opt3": "JVM",
-      "opt4": "JVC",
-      "ans": "JVM",
-      "description": "Java runs of a virtual enviornment named Java Virtual Machine"
+      "question_type": "MultipleChoice",
+      "id": "1",
+      "question": "What virtual enviornment does Java require to compile?",
+      "optiona": "MVC",
+      "optionb": "CJVM",
+      "optionc": "JVM",
+      "optiond": "JVC",
+      "answer": "JVM",
+      "explanation": "Java runs of a virtual enviornment named Java Virtual Machine"
     },
     {
-      "type": "mc",
-      "qnum": "2",
-      "q": "How do you print in Java?",
-      "opt1": "System.in.println",
-      "opt2": "helloWorld",
-      "opt3": "System.out.println",
-      "opt4": "Print helloWorld",
-      "ans": "System.out.println",
-      "description": "The correct answers is C because the proper syntax tells the system we are printing output"
+      "question_type": "MultipleChoice",
+      "id": "2",
+      "question": "How do you print in Java?",
+      "optiona": "System.in.println",
+      "optionb": "helloWorld",
+      "optionc": "System.out.println",
+      "optiond": "Print helloWorld",
+      "answer": "System.out.println",
+      "explanation": "The correct answers is C because the proper syntax tells the system we are printing output"
     },
     {
-      "type": "tf",
-      "qnum": "3",
-      "q": "C is an object oriented programming language",
-      "ans": "False",
-      "description": "C is a procedural language"
+      "question_type": "TF",
+      "id": "3",
+      "question": "C is an object oriented programming language",
+      "answer": "False",
+      "explanation": "C is a procedural language"
     },
     {
-      "type": "sr",
-      "qnum": "4",
-      "q": "What does the null terminator in C look like after the backslash?",
-      "ans": "0",
-      "description": "0 lets C know the end of a string"
+      "question_type": "Input",
+      "id": "4",
+      "question": "What does the null terminator in C look like after the backslash?",
+      "answer": "0",
+      "explanation": "0 lets C know the end of a string"
     },
     {
-      "type": "mc",
-      "qnum": "5",
-      "q": "What are H1 - H6 tags meant to do in HTML?",
-      "opt1": "H-5",
-      "opt2": "Create a heading depending on importance",
-      "opt3": "Create a title",
-      "opt4": "Create bold text",
-      "ans": "Create a heading depending on importance",
-      "description": "H tags are meant for headings. The larger the number the smaller the text"
+      "question_type": "MultipleChoice",
+      "id": "5",
+      "question": "What are H1 - H6 tags meant to do in HTML?",
+      "optiona": "H-5",
+      "optionb": "Create a heading depending on importance",
+      "optionc": "Create a title",
+      "optiond": "Create bold text",
+      "answer": "Create a heading depending on importance",
+      "explanation": "H tags are meant for headings. The larger the number the smaller the text"
     },
     {
-      "type": "imc",
-      "qnum": "6",
-      "q": "Which is an IDE",
-      "opt1": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
-      "opt2": "https://library.kissclipart.com/20181007/uqq/kissclipart-python-programming-logo-clipart-python-programming-ee3b722cb6d8fd35.jpg",
-      "opt3": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3csPqDA5xw7_oJEQn4zZkTvAOSisB1l_D_Y_lNqvjqjq-EYfx&usqp=CAU",
-      "opt4": "https://i.redd.it/rm6sqwpmesb41.jpg",
-      "ans": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
-      "description": "Come on, you gotta know who the GOAT (greatest of all time) is!"
+      "question_type": "imc",
+      "id": "6",
+      "question": "Which is an IDE",
+      "optiona": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
+      "optionb": "https://library.kissclipart.com/20181007/uqq/kissclipart-python-programming-logo-clipart-python-programming-ee3b722cb6d8fd35.jpg",
+      "optionc": "https://encrypted-tbn0.gstatic.com/images?question=tbn%3AANd9GcQ3csPqDA5xw7_oJEQn4zZkTvAOSisB1l_D_Y_lNqvjqjq-EYfx&usqp=CAU",
+      "optiond": "https://i.redd.it/rm6sqwpmesb41.jpg",
+      "answer": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
+      "explanation": "Come on, you gotta know who the GOAT (greatest of all time) is!"
     },
     {
-      "type": "tf",
-      "qnum": "7",
-      "q": "Python is a language commonly used in AI",
-      "ans": "True",
-      "description": "Python is popular in AI, Machine Learning and data mining"
+      "question_type": "TF",
+      "id": "7",
+      "question": "Python is a language commonly used in AI",
+      "answer": "True",
+      "explanation": "Python is popular in AI, Machine Learning and data mining"
     },
     {
-      "type": "sr",
-      "qnum": "8",
-      "q": "Which framework starts with a .?",
-      "ans": ".NET",
-      "description": ".NET"
+      "question_type": "Input",
+      "id": "8",
+      "question": "Which framework starts with a .?",
+      "answer": ".NET",
+      "explanation": ".NET"
     },
     {
-      "type": "mc",
-      "qnum": "9",
-      "q": "Which is not a UNIX based system?",
-      "opt1": "MacOS",
-      "opt2": "Ubuntu",
-      "opt3": "Kbuntu",
-      "opt4": "Windows",
-      "ans": "Windows",
-      "description": "All of the other choices were based on the UNIX/Linux kernel, besides Windows"
+      "question_type": "MultipleChoice",
+      "id": "9",
+      "question": "Which is not a UNIX based system?",
+      "optiona": "MacOS",
+      "optionb": "Ubuntu",
+      "optionc": "Kbuntu",
+      "optiond": "Windows",
+      "answer": "Windows",
+      "explanation": "All of the other choices were based on the UNIX/Linux kernel, besides Windows"
     }
   ]
 }
