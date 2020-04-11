@@ -32,9 +32,9 @@
     {
       "type": "sr",
       "qnum": "4",
-      "q": "What does the null terminator in C look like?",
-      "ans": "\0",
-      "description": "\0 lets C know the end of a string"
+      "q": "What does the null terminator in C look like after the backslash?",
+      "ans": "0",
+      "description": "0 lets C know the end of a string"
     },
     {
       "type": "mc",
