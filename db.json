@@ -1,62 +1,184 @@
 {
   "Quiz1": [
     {
-      "question_type": "mc",
-      "id": "1",
-      "question": "What virtual enviornment does Java require to compile?",
-      "optiona": "MVC",
-      "optionb": "CJVM",
-      "optionc": "JVM",
-      "optiond": "JVC",
-      "answer": "JVM",
-      "explanation": "Java runs of a virtual enviornment named Java Virtal Machine"
+      "type": "mc",
+      "qnum": "1",
+      "q": "What is 3+3?",
+      "opt1": "3",
+      "opt2": "6",
+      "opt3": "9",
+      "opt4": "-3",
+      "ans": "6",
+      "description": "3 + 3 equals to 6"
     },
     {
-      "question_type": "mc",
-      "id": "2",
-      "question": "What are H1 - H6 tags meant to do in HTML?",
-      "optiona": "H-5",
-      "optionb": "Create a heading depending on importance",
-      "optionc": "Create a title",
-      "optiond": "Create bold text",
-      "answer": "Create a heading depending on importance",
-      "explanation": "H tags are meant for headings. The larger the number the smaller the text"
+      "type": "mc",
+      "qnum": "2",
+      "q": "Who was the first person to sail around the globe?",
+      "opt1": "Amerigo Vespucci",
+      "opt2": "Christopher Columbus",
+      "opt3": "Ferdinand Magellan",
+      "opt4": "Jack Ward",
+      "ans": "Ferdinand Magellan",
+      "description": "Ferdinand Magellan circumnavigated the globe in 1519 trying to discover another route to the rich spices of indonesia"
     },
     {
-      "question_type": "tf",
-      "id": "3",
-      "question": "C is an object oriented programming language",
-      "answer": "True",
-      "explanation": "C is a procedural language"
+      "type": "tf",
+      "qnum": "3",
+      "q": "Is 9+6 = 14?",
+      "ans": "False",
+      "description": "9+6 = 15 thus this statement is false"
     },
     {
-      "question_type": "sr",
-      "id": "4",
-      "question": "What does the null terminator in C look like?",
-      "answer": "0",
-      "explanation": "18+4 = 22. Simple math!!!"
+      "type": "sr",
+      "qnum": "4",
+      "q": "What is 18+4?",
+      "ans": "22",
+      "description": "18+4 = 22. Simple math!!!"
     },
     {
-      "question_type": "mc",
-      "id": "5",
-      "question": "Who invented the light bulb?",
-      "optiona": "Thomas Edison",
-      "optionb": "Alexander Graham Bell",
-      "optionc": "Thomas Shelby",
-      "optiond": "Henry Ford",
-      "answer": "Thomas Edison",
-      "explanation": "Edison patented the first commercially successful bulb in 1979"
+      "type": "mc",
+      "qnum": "5",
+      "q": "Who invented the light bulb?",
+      "opt1": "Thomas Edison",
+      "opt2": "Alexander Graham Bell",
+      "opt3": "Thomas Shelby",
+      "opt4": "Henry Ford",
+      "ans": "Thomas Edison",
+      "description": "Edison patented the first commercially successful bulb in 1979"
     },
     {
-      "question_type": "imc",
-      "id": "6",
-      "question": "Which is an IDE",
-      "optiona": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
-      "optionb": "https://library.kissclipart.com/20181007/uqq/kissclipart-python-programming-logo-clipart-python-programming-ee3b722cb6d8fd35.jpg",
-      "optionc": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3csPqDA5xw7_oJEQn4zZkTvAOSisB1l_D_Y_lNqvjqjq-EYfx&usqp=CAU",
-      "optiond": "https://pbs.twimg.com/profile_images/754207607875862528/8bxQXZT4_400x400.jpg",
-      "answer": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
-      "explanation": "Eclipse is an IDE"
+      "type": "imc",
+      "qnum": "6",
+      "q": "Which one of these men is Roger Federer?",
+      "opt1": "https://cdn.cnn.com/cnnnext/dam/assets/190715102751-novak-djokovic-wimbledon-title-exlarge-169.jpg",
+      "opt2": "https://tennishead.net/wp-content/uploads/2020/02/Andy-Murray-forehand.jpg",
+      "opt3": "https://d2me2qg8dfiw8u.cloudfront.net/content/uploads/2020/01/27142919/Rafael-Nadal-enjoying-that-one-from-PA-752x428.jpg",
+      "opt4": "https://i.insider.com/5cdae0af021b4c4b50706fc6?width=600&format=jpeg&auto=webp",
+      "ans": "https://i.insider.com/5cdae0af021b4c4b50706fc6?width=600&format=jpeg&auto=webp",
+      "description": "Come on, you gotta know who the GOAT (greatest of all time) is!"
+    },
+    {
+      "type": "tf",
+      "qnum": "7",
+      "q": "The longest ever veil was over 10 feet in length",
+      "ans": "True",
+      "description": "The longest veil ever warn to a wedding was 22,843 feet and 2.11 inches long. \nThat is the same as 63.5 football fields"
+    },
+    {
+      "type": "sr",
+      "qnum": "8",
+      "q": "What goes up and never comes down?",
+      "ans": "Age",
+      "description": "Its age! Its only a one way deal."
+    },
+    {
+      "type": "mc",
+      "qnum": "9",
+      "q": "How many Big East titles does the St. Johns Tennis Program have?",
+      "opt1": "3",
+      "opt2": "4",
+      "opt3": "5",
+      "opt4": "6",
+      "ans": "6",
+      "description": "St. John's Men's Tennis won the big East Championship once in the 80s, once in the 90s, and four times in the past decade!"
+    },
+    {
+      "type": "imc",
+      "qnum": "10",
+      "q": "Which of these footballs was used on the latest Champions League's Final?",
+      "opt1": "https://www.paninsports.com/wp-content/uploads/2019/03/FINALE_M_TTRN_Orange_DN8676_01_standard-FILEminimizer.jpg",
+      "opt2": "https://www.soccerpro.com/wp-content/uploads/2018/02/cf1203_adidas_finale_kiev_match_ball_01.jpg",
+      "opt3": "https://cdn3.volusion.com/goz35.avhz4/v/vspfiles/photos/EB-ADM36915-2.jpg?v-cache=1456231556",
+      "opt4": "https://cdn3.volusion.com/goz35.avhz4/v/vspfiles/photos/EB-ADG73617-2.jpg?v-cache=1456231556",
+      "ans": "https://www.paninsports.com/wp-content/uploads/2019/03/FINALE_M_TTRN_Orange_DN8676_01_standard-FILEminimizer.jpg",
+      "description": "That was literally a freebie! All the balls have the event and year on them!"
+    },
+    {
+      "type": "tf",
+      "qnum": "11",
+      "q": "The term 'Windy City' has nothing to do with Chicago weather",
+      "ans": "True",
+      "description": "Chicago was called the Windy City because its residents were windbags!"
+    },
+    {
+      "type": "sr",
+      "qnum": "12",
+      "q": "Where does today come before yesterday?",
+      "ans": "Dictionary",
+      "description": "Alphabet.. you know t before y."
+    },
+    {
+      "type": "mc",
+      "qnum": "13",
+      "q": "Which NFL team had the nickname 'The Legion of Boom'?",
+      "opt1": "Miami Dolphins",
+      "opt2": "Chicago Bears",
+      "opt3": "New York Giants",
+      "opt4": "Seattle Seahawks",
+      "ans": "Seattle Seahawks",
+      "description": "One of the best defences in the history of the NFL!"
+    },
+    {
+      "type": "mc",
+      "qnum": "14",
+      "q": "How many presidents did the United States Have?",
+      "opt1": "37",
+      "opt2": "45",
+      "opt3": "42",
+      "opt4": "50",
+      "ans": "45",
+      "description": "Mr. Donald J. Trump is the 45th presidents of the United States."
+    },
+    {
+      "type": "tf",
+      "qnum": "15",
+      "q": "No number before 1000 contains the letter 'A",
+      "ans": "True",
+      "description": "Go ahead, count!"
+    },
+    {
+      "type": "sr",
+      "qnum": "16",
+      "q": "I am light as a feather, yet even the strongest person cannot hold me for more than 5 minutes!",
+      "ans": "Breath",
+      "description": "Well if you can, props to you."
+    },
+    {
+      "type": "mc",
+      "qnum": "17",
+      "q": "Which company used the wrong name for a pitch to an athlete?",
+      "opt1": "Nike",
+      "opt2": "Adidas",
+      "opt3": "Under Armour",
+      "opt4": "Reebok",
+      "ans": "Nike",
+      "description": "When Nike was offering Stephen Curry a contract, their powerpoint contained the name 'Kevin Durant'"
+    },
+    {
+      "type": "mc",
+      "qnum": "18",
+      "q": "What sport's biggest stage is the World Series?",
+      "opt1": "Football",
+      "opt2": "Soccer",
+      "opt3": "Tennis",
+      "opt4": "Baseball",
+      "ans": "Baseball",
+      "description": "Ah come on, its always all over the TV"
+    },
+    {
+      "type": "tf",
+      "qnum": "19",
+      "q": "Apple's fiscal year ends in January",
+      "ans": "False",
+      "description": "Apple's fiscal year ends on September 26th, right after the typical time of release of a new iPhone"
+    },
+    {
+      "type": "sr",
+      "qnum": "20",
+      "q": "Which language does not require curly brackets and is organized via indentation",
+      "ans": "Python",
+      "description": "Little bit of a curveball at the end."
     }
   ]
 }
