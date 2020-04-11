@@ -1,15 +1,15 @@
 {
   "Quiz1": [
     {
-      "question_type": "multipleChoice",
-      "id": "1",
-      "question": "What virtual enviornment does Java require to compile?",
+      "type": "mc",
+      "qnum": "1",
+      "q": "What virtual enviornment does Java require to compile?",
       "opt1": "MVC",
       "opt2": "CJVM",
       "opt3": "JVM",
       "opt4": "JVC",
-      "answer": "JVM",
-      "explanation": "Java runs of a virtual enviornment named Java Virtual Machine"
+      "ans": "JVM",
+      "description": "Java runs of a virtual enviornment named Java Virtual Machine"
     },
     {
       "type": "mc",
