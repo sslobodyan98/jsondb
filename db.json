@@ -48,7 +48,7 @@
       "explanation": "H tags are meant for headings. The larger the number the smaller the text"
     },
     {
-      "question_type": "imc",
+      "question_type": "Picture",
       "id": "6",
       "question": "Which is an IDE",
       "optiona": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
