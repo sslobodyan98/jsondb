@@ -1,0 +1,62 @@
+{
+  "Quiz1": [
+    {
+      "question_type": "mc",
+      "id": "1",
+      "question": "What virtual enviornment does Java require to compile?",
+      "optiona": "MVC",
+      "optionb": "CJVM",
+      "optionc": "JVM",
+      "optiond": "JVC",
+      "answer": "JVM",
+      "explanation": "Java runs of a virtual enviornment named Java Virtal Machine"
+    },
+    {
+      "question_type": "mc",
+      "id": "2",
+      "question": "What are H1 - H6 tags meant to do in HTML?",
+      "optiona": "H-5",
+      "optionb": "Create a heading depending on importance",
+      "optionc": "Create a title",
+      "optiond": "Create bold text",
+      "answer": "Create a heading depending on importance",
+      "explanation": "H tags are meant for headings. The larger the number the smaller the text"
+    },
+    {
+      "question_type": "tf",
+      "id": "3",
+      "question": "C is an object oriented programming language",
+      "answer": "True",
+      "explanation": "C is a procedural language"
+    },
+    {
+      "question_type": "sr",
+      "id": "4",
+      "question": "What does the null terminator in C look like?",
+      "answer": "0",
+      "explanation": "18+4 = 22. Simple math!!!"
+    },
+    {
+      "question_type": "mc",
+      "id": "5",
+      "question": "Who invented the light bulb?",
+      "optiona": "Thomas Edison",
+      "optionb": "Alexander Graham Bell",
+      "optionc": "Thomas Shelby",
+      "optiond": "Henry Ford",
+      "answer": "Thomas Edison",
+      "explanation": "Edison patented the first commercially successful bulb in 1979"
+    },
+    {
+      "question_type": "imc",
+      "id": "6",
+      "question": "Which is an IDE",
+      "optiona": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
+      "optionb": "https://library.kissclipart.com/20181007/uqq/kissclipart-python-programming-logo-clipart-python-programming-ee3b722cb6d8fd35.jpg",
+      "optionc": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3csPqDA5xw7_oJEQn4zZkTvAOSisB1l_D_Y_lNqvjqjq-EYfx&usqp=CAU",
+      "optiond": "https://pbs.twimg.com/profile_images/754207607875862528/8bxQXZT4_400x400.jpg",
+      "answer": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
+      "explanation": "Eclipse is an IDE"
+    }
+  ]
+}
