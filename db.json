@@ -75,6 +75,17 @@
     {
       "question_type": "MultipleChoice",
       "id": "9",
+      "question": "Who created Linux?",
+      "optiona": "Linus Torvalds",
+      "optionb": "Elon Musk",
+      "optionc": "Steve Jobs",
+      "optiond": "Thomas Linux",
+      "answer": "Linus Torvalds",
+      "explanation": "Linus Torvalds created Linux 1991 after writting his own kernel and asking for peoples advice and contributions"
+    },
+    {
+      "question_type": "MultipleChoice",
+      "id": "10",
       "question": "Which is not a UNIX based system?",
       "optiona": "MacOS",
       "optionb": "Ubuntu",
@@ -82,6 +93,80 @@
       "optiond": "Windows",
       "answer": "Windows",
       "explanation": "All of the other choices were based on the UNIX/Linux kernel, besides Windows"
+    },
+    {
+      "question_type": "TF",
+      "id": "11",
+      "question": "SSH is a Secure Shell",
+      "answer": "True",
+      "explanation": "SSH stands for secure shell, allowing for network services securely over an unsecured network"
+    },
+    {
+      "question_type": "TF",
+      "id": "12",
+      "question": "JavaScript requires an else statement when declaring an if statement",
+      "answer": "False",
+      "explanation": "Unlike some languages, JavaScript does not require an else statement"
+    },
+    {
+      "question_type": "TF",
+      "id": "13",
+      "question": "JavaScript in the browser does not need a semicolon ; to compile correctly",
+      "answer": "True",
+      "explanation": "Modern browsers can easily get away with missing semicolons"
+    },
+    {
+      "question_type": "Input",
+      "id": "14",
+      "question": "The React framework was made by ________",
+      "answer": "Facebook",
+      "explanation": "Facebook created React in 2011 to deal with managing templates with lots of various user content"
+    },
+    {
+      "question_type": "Input",
+      "id": "15",
+      "question": "Django was built based on which language?",
+      "answer": "Python",
+      "explanation": "Django is Python based, initially released in 2005 by the non-profit Django Software Foundation"
+    },
+    {
+      "question_type": "Picture",
+      "id": "16",
+      "question": "Which is the Flask logo?",
+      "optiona": "https://img.stackshare.io/service/1446/8cyY6D_m.png",
+      "optionb": "https://twilio-cms-prod.s3.amazonaws.com/original_images/flask-oauth.png",
+      "optionc": "https://encrypted-tbn0.gstatic.com/images?question=tbn%3AANd9GcQ3csPqDA5xw7_oJEQn4zZkTvAOSisB1l_D_Y_lNqvjqjq-EYfx&usqp=CAU",
+      "optiond": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png",
+      "answer": "https://twilio-cms-prod.s3.amazonaws.com/original_images/flask-oauth.png",
+      "explanation": "The second choice is the correct answer!"
+    },
+    {
+      "question_type": "Input",
+      "id": "17",
+      "question": "React works with which language?",
+      "answer": "Javascript",
+      "explanation": "Javascript is the correct answer!"
+    },
+    {
+      "question_type": "Input",
+      "id": "18",
+      "question": "What is the file extension in CSS?",
+      "answer": ".css",
+      "explanation": ".css is the correct answer!"
+    },
+    {
+      "question_type": "Input",
+      "id": "19",
+      "question": "What is the OR operator in JavaScript?",
+      "answer": "||",
+      "explanation": "|| is the correct answer"
+    },
+    {
+      "question_type": "TF",
+      "id": "20",
+      "question": "JavaScript is multi-threaded",
+      "answer": "False",
+      "explanation": "Javascript is a single-threaded language"
     }
   ]
 }
